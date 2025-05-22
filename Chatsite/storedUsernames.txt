@@ -1,0 +1,17 @@
+Echo123
+Elise456
+Megan789
+wompWomp
+1111111111111111111
+!!!!
+??
+-.und0
+;-
+^C
+/r
+Return
+Exit
+Username
+USERNAME
+username
+BufferReader
