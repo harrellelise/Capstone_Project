@@ -1,2 +1,2 @@
 # Capstone_Project
-This is the Software Engineering Project I completed as my final capstone project. Over the course 16 weeks, my team and I utilized Agile methodologies in Jira and Confluence to rotate weekly responsibilities from Scrum Master, QA, programmer and designer.  
+This is the Software Engineering Project I completed as my final capstone project. Over the course 16 weeks, my team and I utilized Agile methodologies in Jira and Confluence to rotate weekly responsibilities from Scrum Master, QA, programmer and designer. The goal of the project was to create a secure chat site with malicious features and a focus on encryption. We worked using Java in Eclipse, and tested/ran our code in the command prompt. Running instructions can be found in the repository.
